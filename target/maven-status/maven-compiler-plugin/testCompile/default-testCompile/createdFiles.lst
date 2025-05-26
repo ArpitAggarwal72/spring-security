@@ -1,0 +1,5 @@
+codes/rytis/logindemo/controller/WithAdminUser.class
+codes/rytis/logindemo/controller/HelloControllerTest.class
+codes/rytis/logindemo/controller/WithMockUser.class
+codes/rytis/logindemo/LoginDemoApplicationTests.class
+codes/rytis/logindemo/controller/WithMockUserSecurityContextFactory.class
